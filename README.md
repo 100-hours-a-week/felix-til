@@ -7,3 +7,5 @@
 25.10.20 DispatcherServlet, Thymeleaf
 
 25.10.21 Java Unit test
+
+25.10.22 TestCode의 쓸모, 예외처리
